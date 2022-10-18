@@ -6,7 +6,6 @@ export default function ShowMessages() {
   const dispatch = useDispatch();
 
   const messages = useSelector((state) => state.messages);
-  console.log(messages);
 
   useEffect(() => {
     dispatch(randomMessageRedux());
