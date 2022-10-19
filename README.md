@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Hello Rails, Front-End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ENDPOINT to the [API](https://github.com/BregornOriginal/hello-rails-back-end)
 
-## Available Scripts
+ - GET 
+ 
+ [GET](https://floating-shore-32778.herokuapp.com/api/messages)
+ 
+ ### Usage
 
-In the project directory, you can run:
+To edit this project:
 
-### `npm start`
+- Open the repository you cloned with a code editor that you like.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Edit the code as you want.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- If you want to USE THE BACK-END part of the project follow this [hello-rails-front-end](https://github.com/BregornOriginal/hello-rails-back-end)
 
-### `npm test`
+## Built With:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React/Redux
+- Redux Toolkit
+- ES6
 
-### `npm run build`
+Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Ruby 3.1.2 or newer
+- Rails 7.0.4 or newer
+- Git
+- NPM
+- PostgreSQL
+- Modern web browser
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
+- To get a local copy of this project clone this repository or download the Zip folder:
+git clone https://github.com/BregornOriginal/hello-react-front-end.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- To get started, In the root directory run:
+`npm install`
 
-### `npm run eject`
+- Then run:
+`npm start`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👤 **@BregornOriginal**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-BregornOriginal-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/BregornOriginal)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Bregorn-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/Bregorn)
 
-## Learn More
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-JulioGagliardi-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/julio-gagliardi/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :star2: Show your support
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Give a :star: if you like my project!
 
-### Code Splitting
+## :pencil: License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](https://github.com/BregornOriginal/hello-rails-front-end/blob/main/LICENSE) licensed.
